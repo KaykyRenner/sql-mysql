@@ -1,0 +1,3 @@
+DELETE FROM profiles WHERE user_id = 109;
+DELETE FROM users WHERE id = 109;
+SELECT * FROM users WHERE id BETWEEN 100 and 109;
